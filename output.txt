@@ -476,63 +476,63 @@ Comparing the calculated densities with the tabulated density for each element:
 
 hydrogen (H):
 Density error with empirical radius 7.447981119935568e-05
-Density error with empirical radius 8.826371306508012e-05
+Density error with calculated radius 8.826371306508012e-05
 
 helium (He):
 Density error with empirical radius 0.00017794701918964453
-Density error with empirical radius 0.00014642484843428353
+Density error with calculated radius 0.00014642484843428353
 
 lithium (Li):
 Density error with empirical radius 0.5339994564626053
-Density error with empirical radius 0.5339996442179594
+Density error with calculated radius 0.5339996442179594
 
 beryllium (Be):
 Density error with empirical radius 1.8499981414534328
-Density error with empirical radius 1.8499984686048183
+Density error with calculated radius 1.8499984686048183
 
 boron (B):
 Density error with empirical radius 2.339995797376536
-Density error with empirical radius 2.339996080600795
+Density error with calculated radius 2.339996080600795
 
 carbon (C):
 Density error with empirical radius 2.2669916403982144
-Density error with empirical radius 2.266990466435657
+Density error with calculated radius 2.266990466435657
 
 nitrogen (N):
 Density error with empirical radius 0.00123842392967826
-Density error with empirical radius 0.0012315592900868492
+Density error with calculated radius 0.0012315592900868492
 
 oxygen (O):
 Density error with empirical radius 0.00141131678057983
-Density error with empirical radius 0.0013944624620699805
+Density error with calculated radius 0.0013944624620699805
 
 fluorine (F):
 Density error with empirical radius 0.0016597157226384055
-Density error with empirical radius 0.0016347817909756058
+Density error with calculated radius 0.0016347817909756058
 
 neon (Ne):
 Density error with empirical radius 0.0008987238406963703
-Density error with empirical radius 0.0008121038834438825
+Density error with calculated radius 0.0008121038834438825
 
 sodium (Na):
 Density error with empirical radius 0.9709990589157572
-Density error with empirical radius 0.9709991998245656
+Density error with calculated radius 0.9709991998245656
 
 magnesium (Mg):
 Density error with empirical radius 1.737998280772937
-Density error with empirical radius 1.7379980967185737
+Density error with calculated radius 1.7379980967185737
 
 aluminium (Al):
 Density error with empirical radius 2.697996702019729
-Density error with empirical radius 2.697996079584745
+Density error with calculated radius 2.697996079584745
 
 silicon (Si):
 Density error with empirical radius 2.3295949624949426
-Density error with empirical radius 2.329595097420846
+Density error with calculated radius 2.329595097420846
 
 phosphorus (P):
 Density error with empirical radius 1.8199926055592461
-Density error with empirical radius 1.8199921435363307
+Density error with calculated radius 1.8199921435363307
 
 sulfur (S):
 Density error with empirical radius 2.066992345045125
@@ -540,283 +540,283 @@ Could not calculate error
 
 chlorine (Cl):
 Density error with empirical radius 0.0032055362197038442
-Density error with empirical radius 0.0031968334466519776
+Density error with calculated radius 0.0031968334466519776
 
 argon (Ar):
 Density error with empirical radius 0.0017570540391327661
-Density error with empirical radius 0.0017570540391327661
+Density error with calculated radius 0.0017570540391327661
 
 potassium (K):
 Density error with empirical radius 0.8619991234004915
-Density error with empirical radius 0.8619993494952913
+Density error with calculated radius 0.8619993494952913
 
 calcium (Ca):
 Density error with empirical radius 1.5399983594105429
-Density error with empirical radius 1.5399986895747828
+Density error with calculated radius 1.5399986895747828
 
 scandium (Sc):
 Density error with empirical radius 2.9889973797771123
-Density error with empirical radius 2.9889982771609187
+Density error with calculated radius 2.9889982771609187
 
 titanium (Ti):
 Density error with empirical radius 4.53999583549399
-Density error with empirical radius 4.53999790391159
+Density error with calculated radius 4.53999790391159
 
 vanadium (V):
 Density error with empirical radius 6.109995057100117
-Density error with empirical radius 6.109997567825178
+Density error with calculated radius 6.109997567825178
 
 chromium (Cr):
 Density error with empirical radius 7.149995476255647
-Density error with empirical radius 7.149997286324606
+Density error with calculated radius 7.149997286324606
 
 manganese (Mn):
 Density error with empirical radius 7.439995220301351
-Density error with empirical radius 7.439996857270552
+Density error with calculated radius 7.439996857270552
 
 iron (Fe):
 Density error with empirical radius 7.873995141395154
-Density error with empirical radius 7.873996488263748
+Density error with calculated radius 7.873996488263748
 
 cobalt (Co):
 Density error with empirical radius 8.859994281658228
-Density error with empirical radius 8.859995993725983
+Density error with calculated radius 8.859995993725983
 
 nickel (Ni):
 Density error with empirical radius 8.911994304926239
-Density error with empirical radius 8.911995764137506
+Density error with calculated radius 8.911995764137506
 
 copper (Cu):
 Density error with empirical radius 8.959993834074066
-Density error with empirical radius 8.959995023825488
+Density error with calculated radius 8.959995023825488
 
 zinc (Zn):
 Density error with empirical radius 7.133993653305489
-Density error with empirical radius 7.133994546392641
+Density error with calculated radius 7.133994546392641
 
 gallium (Ga):
 Density error with empirical radius 5.906992423695883
-Density error with empirical radius 5.906993382853787
+Density error with calculated radius 5.906993382853787
 
 germanium (Ge):
 Density error with empirical radius 5.322991121140429
-Density error with empirical radius 5.322991121140429
+Density error with calculated radius 5.322991121140429
 
 arsenic (As):
 Density error with empirical radius 5.775988239523644
-Density error with empirical radius 5.775987927314696
+Density error with calculated radius 5.775987927314696
 
 selenium (Se):
 Density error with empirical radius 4.808987605614229
-Density error with empirical radius 4.8089827492946915
+Density error with calculated radius 4.8089827492946915
 
 bromine (Br):
 Density error with empirical radius 3.1219874574341353
-Density error with empirical radius 3.1219770334188244
+Density error with calculated radius 3.1219770334188244
 
 krypton (Kr):
 Could not calculate error
-Density error with empirical radius 0.003703643989948491
+Density error with calculated radius 0.003703643989948491
 
 rubidium (Rb):
 Density error with empirical radius 1.5319984277908156
-Density error with empirical radius 1.5319989035816537
+Density error with calculated radius 1.5319989035816537
 
 strontium (Sr):
 Density error with empirical radius 2.6399973852832286
-Density error with empirical radius 2.639998008490901
+Density error with calculated radius 2.639998008490901
 
 yttrium (Y):
 Density error with empirical radius 4.4689963606467344
-Density error with empirical radius 4.46899777241571
+Density error with calculated radius 4.46899777241571
 
 zirconium (Zr):
 Density error with empirical radius 6.505994151757029
-Density error with empirical radius 6.5059975087412285
+Density error with calculated radius 6.5059975087412285
 
 niobium (Nb):
 Density error with empirical radius 8.569992724666225
-Density error with empirical radius 8.5699971426637
+Density error with calculated radius 8.5699971426637
 
 molybdenum (Mo):
 Density error with empirical radius 10.219992487108826
-Density error with empirical radius 10.219996660739488
+Density error with calculated radius 10.219996660739488
 
 technetium (Tc):
 Density error with empirical radius 11.499990490971241
-Density error with empirical radius 11.499996182454717
+Density error with calculated radius 11.499996182454717
 
 ruthenium (Ru):
 Density error with empirical radius 12.369989017439623
-Density error with empirical radius 12.36999572167621
+Density error with calculated radius 12.36999572167621
 
 rhodium (Rh):
 Density error with empirical radius 12.409990014986132
-Density error with empirical radius 12.409995255268202
+Density error with calculated radius 12.409995255268202
 
 palladium (Pd):
 Density error with empirical radius 12.019990741288787
-Density error with empirical radius 12.019994736501161
+Density error with calculated radius 12.019994736501161
 
 silver (Ag):
 Density error with empirical radius 10.500993712979529
-Density error with empirical radius 10.500994267382174
+Density error with calculated radius 10.500994267382174
 
 cadmium (Cd):
 Density error with empirical radius 8.689992793488111
-Density error with empirical radius 8.68999356953211
+Density error with calculated radius 8.68999356953211
 
 indium (In):
 Density error with empirical radius 7.309992639178709
-Density error with empirical radius 7.309992779827504
+Density error with calculated radius 7.309992779827504
 
 tin (Sn):
 Density error with empirical radius 7.286990704030525
-Density error with empirical radius 7.286990704030525
+Density error with calculated radius 7.286990704030525
 
 antimony (Sb):
 Density error with empirical radius 6.6849904651904355
-Density error with empirical radius 6.684987644477747
+Density error with calculated radius 6.684987644477747
 
 tellurium (Te):
 Density error with empirical radius 6.231988898594713
-Density error with empirical radius 6.231983630073451
+Density error with calculated radius 6.231983630073451
 
 iodine (I):
 Density error with empirical radius 4.929988959106941
-Density error with empirical radius 4.929980079749781
+Density error with calculated radius 4.929980079749781
 
 xenon (Xe):
 Could not calculate error
-Density error with empirical radius 0.005862118205657288
+Density error with calculated radius 0.005862118205657288
 
 caesium (Cs):
 Density error with empirical radius 1.8729981947633707
-Density error with empirical radius 1.872998801038083
+Density error with calculated radius 1.872998801038083
 
 barium (Ba):
 Density error with empirical radius 3.5939967012307035
-Density error with empirical radius 3.593997975556037
+Density error with calculated radius 3.593997975556037
 
 lanthanum (La):
 Density error with empirical radius 6.144995527740464
-Density error with empirical radius 6.144995527740464
+Density error with calculated radius 6.144995527740464
 
 cerium (Ce):
 Density error with empirical radius 6.7699947169595465
-Density error with empirical radius 6.769991519374986
+Density error with calculated radius 6.769991519374986
 
 praseodymium (Pr):
 Density error with empirical radius 6.772994687110572
-Density error with empirical radius 6.772997767686925
+Density error with calculated radius 6.772997767686925
 
 neodymium (Nd):
 Density error with empirical radius 7.006994561465107
-Density error with empirical radius 7.006996060914175
+Density error with calculated radius 7.006996060914175
 
 promethium (Pm):
 Density error with empirical radius 7.259994532809488
-Density error with empirical radius 7.259995981927119
+Density error with calculated radius 7.259995981927119
 
 samarium (Sm):
 Density error with empirical radius 7.519994330711963
-Density error with empirical radius 7.519997337357641
+Density error with calculated radius 7.519997337357641
 
 europium (Eu):
 Density error with empirical radius 5.242994270233525
-Density error with empirical radius 5.242997056824446
+Density error with calculated radius 5.242997056824446
 
 gadolinium (Gd):
 Density error with empirical radius 7.894993562984876
-Density error with empirical radius 7.894997032202383
+Density error with calculated radius 7.894997032202383
 
 terbium (Tb):
 Density error with empirical radius 8.228992920698744
-Density error with empirical radius 8.228996669135348
+Density error with calculated radius 8.228996669135348
 
 dysprosium (Dy):
 Density error with empirical radius 8.549992761466147
-Density error with empirical radius 8.549996726892909
+Density error with calculated radius 8.549996726892909
 
 holmium (Ho):
 Density error with empirical radius 8.794992653207968
-Density error with empirical radius 8.794996588961865
+Density error with calculated radius 8.794996588961865
 
 erbium (Er):
 Density error with empirical radius 9.065992549477329
-Density error with empirical radius 9.065996540800821
+Density error with calculated radius 9.065996540800821
 
 thulium (Tm):
 Density error with empirical radius 9.320992474855395
-Density error with empirical radius 9.32099631387488
+Density error with calculated radius 9.32099631387488
 
 ytterbium (Yb):
 Density error with empirical radius 6.964992291963703
-Density error with empirical radius 6.964996224287012
+Density error with calculated radius 6.964996224287012
 
 lutetium (Lu):
 Density error with empirical radius 9.839992206125828
-Density error with empirical radius 9.83999591221228
+Density error with calculated radius 9.83999591221228
 
 hafnium (Hf):
 Density error with empirical radius 13.309988557255899
-Density error with empirical radius 13.309995264833272
+Density error with calculated radius 13.309995264833272
 
 tantalum (Ta):
 Density error with empirical radius 16.653985830291003
-Density error with empirical radius 16.653994600233865
+Density error with calculated radius 16.653994600233865
 
 tungsten (W):
 Density error with empirical radius 19.249982161838293
-Density error with empirical radius 19.24999389508706
+Density error with calculated radius 19.24999389508706
 
 rhenium (Re):
 Density error with empirical radius 21.01998193216614
-Density error with empirical radius 21.01999330988095
+Density error with calculated radius 21.01999330988095
 
 osmium (Os):
 Density error with empirical radius 22.60997932905451
-Density error with empirical radius 22.609992827423095
+Density error with calculated radius 22.609992827423095
 
 iridium (Ir):
 Density error with empirical radius 22.649981349010396
-Density error with empirical radius 22.64999213161376
+Density error with calculated radius 22.64999213161376
 
 platinum (Pt):
 Density error with empirical radius 21.459981071404975
-Density error with empirical radius 21.45999160153559
+Density error with calculated radius 21.45999160153559
 
 gold (Au):
 Density error with empirical radius 19.28198088815726
-Density error with empirical radius 19.281991074015593
+Density error with calculated radius 19.281991074015593
 
 mercury (Hg):
 Density error with empirical radius 13.533585811159984
-Density error with empirical radius 13.533590422937142
+Density error with calculated radius 13.533590422937142
 
 thallium (Tl):
 Density error with empirical radius 11.849992886292648
-Density error with empirical radius 11.849987147636423
+Density error with calculated radius 11.849987147636423
 
 lead (Pb):
 Density error with empirical radius 11.341991518285955
-Density error with empirical radius 11.341986456248422
+Density error with calculated radius 11.341986456248422
 
 bismuth (Bi):
 Density error with empirical radius 9.806987819728826
-Density error with empirical radius 9.80698293883069
+Density error with calculated radius 9.80698293883069
 
 polonium (Po):
 Density error with empirical radius 9.319992725605095
-Density error with empirical radius 9.319979720540706
+Density error with calculated radius 9.319979720540706
 
 astatine (At):
 Could not calculate error
-Density error with empirical radius 6.999975525179093
+Density error with calculated radius 6.999975525179093
 
 radon (Rn):
 Could not calculate error
-Density error with empirical radius 0.009699329516175
+Density error with calculated radius 0.009699329516175
 
 francium (Fr):
 Could not calculate error
