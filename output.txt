@@ -1,0 +1,1778 @@
+Density of a single atom for empirical and calculated radius:
+
+hydrogen (H):
+Density calculated with empirical radius: 25.572610771498162
+Density calculated with calculated radius: 2.683907140153676
+
+helium (He):
+Density calculated with empirical radius: 0.9182460819400177
+Density calculated with calculated radius: 53.26203315069486
+
+lithium (Li):
+Density calculated with empirical radius: 0.9025649240443194
+Density calculated with calculated radius: 0.5907898767128399
+
+beryllium (Be):
+Density calculated with empirical radius: 3.086188655380214
+Density calculated with calculated radius: 2.542941091774468
+
+boron (B):
+Density calculated with empirical radius: 6.978619252516925
+Density calculated with calculated radius: 6.508314386497794
+
+carbon (C):
+Density calculated with empirical radius: 13.881442976930128
+Density calculated with calculated radius: 15.830853333312387
+
+nitrogen (N):
+Density calculated with empirical radius: 20.21883699576609
+Density calculated with calculated radius: 31.617837269737734
+
+oxygen (O):
+Density calculated with empirical radius: 29.363671658368464
+Density calculated with calculated radius: 57.350921207750915
+
+fluorine (F):
+Density calculated with empirical radius: 60.25144977796111
+Density calculated with calculated radius: 101.65521032076907
+
+neon (Ne):
+Density calculated with empirical radius: 1.9530581388547934
+Density calculated with calculated radius: 145.78885655250826
+
+sodium (Na):
+Density calculated with empirical radius: 1.562706883409539
+Density calculated with calculated radius: 1.3287223420388439
+
+magnesium (Mg):
+Density calculated with empirical radius: 2.8548432152471532
+Density calculated with calculated radius: 3.1604726233823914
+
+aluminium (Al):
+Density calculated with empirical radius: 5.476424146599098
+Density calculated with calculated radius: 6.510001577161226
+
+silicon (Si):
+Density calculated with empirical radius: 8.364972518080963
+Density calculated with calculated radius: 8.140922823163383
+
+phosphorus (P):
+Density calculated with empirical radius: 12.278755651725449
+Density calculated with calculated radius: 13.045962621575033
+
+sulfur (S):
+Density calculated with empirical radius: 12.711349453899915
+Could not calculate density
+
+chlorine (Cl):
+Density calculated with empirical radius: 14.054435433934627
+Density calculated with calculated radius: 28.50572760762258
+
+argon (Ar):
+Density calculated with empirical radius: 44.24665143467819
+Density calculated with calculated radius: 44.24665143467819
+
+potassium (K):
+Density calculated with empirical radius: 1.4556274812789738
+Density calculated with calculated radius: 1.0801882973148067
+
+calcium (Ca):
+Density calculated with empirical radius: 2.7242624207761756
+Density calculated with calculated radius: 2.176011895548386
+
+scandium (Sc):
+Density calculated with empirical radius: 4.350981724957436
+Density calculated with calculated radius: 2.8608411111744467
+
+titanium (Ti):
+Density calculated with empirical radius: 6.915323742337191
+Density calculated with calculated radius: 3.4806360989470684
+
+vanadium (V):
+Density calculated with empirical radius: 8.207876957442295
+Density calculated with calculated radius: 4.038720619823261
+
+chromium (Cr):
+Density calculated with empirical radius: 7.511852943341734
+Density calculated with calculated radius: 4.506163238349621
+
+manganese (Mn):
+Density calculated with empirical radius: 7.93687497874076
+Density calculated with calculated radius: 5.21862413330534
+
+iron (Fe):
+Density calculated with empirical radius: 8.067901777651
+Density calculated with calculated radius: 5.831374242937113
+
+cobalt (Co):
+Density calculated with empirical radius: 9.495528288494416
+Density calculated with calculated radius: 6.652573378955925
+
+nickel (Ni):
+Density calculated with empirical radius: 9.456890853507328
+Density calculated with calculated radius: 7.03381395350959
+
+copper (Cu):
+Density calculated with empirical radius: 10.2387591479958
+Density calculated with calculated radius: 8.263130768379243
+
+zinc (Zn):
+Density calculated with empirical radius: 10.538932381444267
+Density calculated with calculated radius: 9.055926528521036
+
+gallium (Ga):
+Density calculated with empirical radius: 12.580746819877264
+Density calculated with calculated radius: 10.988027921486342
+
+germanium (Ge):
+Density calculated with empirical radius: 14.743690667632011
+Density calculated with calculated radius: 14.743690667632011
+
+arsenic (As):
+Density calculated with empirical radius: 19.52872709607672
+Density calculated with calculated radius: 20.047162164772484
+
+selenium (Se):
+Density calculated with empirical radius: 20.581358266590918
+Density calculated with calculated radius: 28.645465201922768
+
+bromine (Br):
+Density calculated with empirical radius: 20.827417058430605
+Density calculated with calculated radius: 38.13689875887406
+
+krypton (Kr):
+Could not calculate density
+Density calculated with calculated radius: 48.74679320944558
+
+rubidium (Rb):
+Density calculated with empirical radius: 2.6107143257858993
+Density calculated with calculated radius: 1.820645186604173
+
+strontium (Sr):
+Density calculated with empirical radius: 4.341838605764504
+Density calculated with calculated radius: 3.3069780960839696
+
+yttrium (Y):
+Density calculated with empirical radius: 6.043287243429402
+Density calculated with calculated radius: 3.6989901063126225
+
+zirconium (Zr):
+Density calculated with empirical radius: 9.711234266387692
+Density calculated with calculated radius: 4.136831809745762
+
+niobium (Nb):
+Density calculated with empirical radius: 12.08097389539442
+Density calculated with calculated radius: 4.7447177418825035
+
+molybdenum (Mo):
+Density calculated with empirical radius: 12.475447170841665
+Density calculated with calculated radius: 5.544971589328935
+
+technetium (Tc):
+Density calculated with empirical radius: 15.790111045598282
+Density calculated with calculated radius: 6.339181997744937
+
+ruthenium (Ru):
+Density calculated with empirical radius: 18.236967443813306
+Density calculated with calculated radius: 7.104322579088199
+
+rhodium (Rh):
+Density calculated with empirical radius: 16.580502777579735
+Density calculated with calculated radius: 7.878811167429148
+
+palladium (Pd):
+Density calculated with empirical radius: 15.374449049648481
+Density calculated with calculated radius: 8.740243956666907
+
+silver (Ag):
+Density calculated with empirical radius: 10.439841322399076
+Density calculated with calculated radius: 9.519234228020505
+
+cadmium (Cd):
+Density calculated with empirical radius: 11.966692483544975
+Density calculated with calculated radius: 10.67804132340023
+
+indium (In):
+Density calculated with empirical radius: 12.222929229129416
+Density calculated with calculated radius: 11.989376449557767
+
+tin (Sn):
+Density calculated with empirical radius: 15.436317840844426
+Density calculated with calculated radius: 15.436317840844426
+
+antimony (Sb):
+Density calculated with empirical radius: 15.832921070686693
+Density calculated with calculated radius: 20.51682388703494
+
+tellurium (Te):
+Density calculated with empirical radius: 18.43431402682904
+Density calculated with calculated radius: 27.182897912434836
+
+iodine (I):
+Density calculated with empirical radius: 18.3338311237328
+Density calculated with calculated radius: 33.07834805853393
+
+xenon (Xe):
+Could not calculate density
+Density calculated with calculated radius: 41.31718450075206
+
+caesium (Cs):
+Density calculated with empirical radius: 2.9976654357813364
+Density calculated with calculated radius: 1.9909227628393296
+
+barium (Ba):
+Density calculated with empirical radius: 5.4777343531884295
+Density calculated with calculated radius: 3.361667714611097
+
+lanthanum (La):
+Density calculated with empirical radius: 7.426360406660905
+Density calculated with calculated radius: 7.426360406660905
+
+cerium (Ce):
+Density calculated with empirical radius: 8.772693565530894
+Density calculated with calculated radius: 14.082406740859888
+
+praseodymium (Pr):
+Density calculated with empirical radius: 8.822258946080954
+Density calculated with calculated radius: 3.7068424363671455
+
+neodymium (Nd):
+Density calculated with empirical radius: 9.030898112222557
+Density calculated with calculated radius: 6.541004782049994
+
+promethium (Pm):
+Density calculated with empirical radius: 9.078481879314136
+Density calculated with calculated radius: 6.672165851234005
+
+samarium (Sm):
+Density calculated with empirical radius: 9.414072657749472
+Density calculated with calculated radius: 4.421420900907793
+
+europium (Eu):
+Density calculated with empirical radius: 9.514499450400642
+Density calculated with calculated radius: 4.887257152774317
+
+gadolinium (Gd):
+Density calculated with empirical radius: 10.688913260817746
+Density calculated with calculated radius: 4.928143043156262
+
+terbium (Tb):
+Density calculated with empirical radius: 11.755454292185377
+Density calculated with calculated radius: 5.5310299344575915
+
+dysprosium (Dy):
+Density calculated with empirical radius: 12.019866199311725
+Density calculated with calculated radius: 5.4351212663896815
+
+holmium (Ho):
+Density calculated with empirical radius: 12.199633099136408
+Density calculated with calculated radius: 5.664161114816596
+
+erbium (Er):
+Density calculated with empirical radius: 12.371881850034951
+Density calculated with calculated radius: 5.744134395077322
+
+thulium (Tm):
+Density calculated with empirical radius: 12.49579446576264
+Density calculated with calculated radius: 6.120953720790425
+
+ytterbium (Yb):
+Density calculated with empirical radius: 12.799493213100927
+Density calculated with calculated radius: 6.269717849602961
+
+lutetium (Lu):
+Density calculated with empirical radius: 12.94203033412292
+Density calculated with calculated radius: 6.787930045002539
+
+hafnium (Hf):
+Density calculated with empirical radius: 19.0011203653374
+Density calculated with calculated radius: 7.8629279962367455
+
+tantalum (Ta):
+Density calculated with empirical radius: 23.529351335467382
+Density calculated with calculated radius: 8.966521089386156
+
+tungsten (W):
+Density calculated with empirical radius: 29.620959332885594
+Density calculated with calculated radius: 10.137444705007677
+
+rhenium (Re):
+Density calculated with empirical radius: 30.00233885171142
+Density calculated with calculated radius: 11.109202147567178
+
+osmium (Os):
+Density calculated with empirical radius: 34.32490666702884
+Density calculated with calculated radius: 11.910342123461572
+
+iridium (Ir):
+Density calculated with empirical radius: 30.970691580120054
+Density calculated with calculated radius: 13.065760510363146
+
+platinum (Pt):
+Density calculated with empirical radius: 31.431666148502263
+Density calculated with calculated radius: 13.945975867943014
+
+gold (Au):
+Density calculated with empirical radius: 31.735956089473333
+Density calculated with calculated radius: 14.821943287205592
+
+mercury (Hg):
+Density calculated with empirical radius: 23.561119133776035
+Density calculated with calculated radius: 15.90308430514115
+
+thallium (Tl):
+Density calculated with empirical radius: 11.812586948439574
+Density calculated with calculated radius: 21.341848174527513
+
+lead (Pb):
+Density calculated with empirical radius: 14.08421512013632
+Density calculated with calculated radius: 22.48992476464873
+
+bismuth (Bi):
+Density calculated with empirical radius: 20.225812674121393
+Density calculated with calculated radius: 28.330733328112963
+
+polonium (Po):
+Density calculated with empirical radius: 12.079414865225635
+Density calculated with calculated radius: 33.674828658469806
+
+astatine (At):
+Could not calculate density
+Density calculated with calculated radius: 40.64138932703839
+
+radon (Rn):
+Could not calculate density
+Density calculated with calculated radius: 50.92952788977867
+
+francium (Fr):
+Could not calculate density
+Could not calculate density
+
+radium (Ra):
+Density calculated with empirical radius: 9.014745562202517
+Could not calculate density
+
+actinium (Ac):
+Density calculated with empirical radius: 12.136191960088158
+Could not calculate density
+
+thorium (Th):
+Density calculated with empirical radius: 15.772560407662663
+Could not calculate density
+
+protactinium (Pa):
+Density calculated with empirical radius: 15.704435494160238
+Could not calculate density
+
+uranium (U):
+Density calculated with empirical radius: 17.60661938318777
+Could not calculate density
+
+neptunium (Np):
+Density calculated with empirical radius: 17.53051254915002
+Could not calculate density
+
+plutonium (Pu):
+Density calculated with empirical radius: 18.04829140081268
+Could not calculate density
+
+americium (Am):
+Density calculated with empirical radius: 17.9743229934323
+Could not calculate density
+
+curium (Cm):
+Could not calculate density
+Could not calculate density
+
+berkelium (Bk):
+Could not calculate density
+Could not calculate density
+
+californium (Cf):
+Could not calculate density
+Could not calculate density
+
+einsteinium (Es):
+Could not calculate density
+Could not calculate density
+
+fermium (Fm):
+Could not calculate density
+Could not calculate density
+
+mendelevium (Md):
+Could not calculate density
+Could not calculate density
+
+nobelium (No):
+Could not calculate density
+Could not calculate density
+
+lawrencium (Lr):
+Could not calculate density
+Could not calculate density
+
+rutherfordium (Rf):
+Could not calculate density
+Could not calculate density
+
+dubnium (Db):
+Could not calculate density
+Could not calculate density
+
+seaborgium (Sg):
+Could not calculate density
+Could not calculate density
+
+bohrium (Bh):
+Could not calculate density
+Could not calculate density
+
+hassium (Hs):
+Could not calculate density
+Could not calculate density
+
+meitnerium (Mt):
+Could not calculate density
+Could not calculate density
+
+darmstadtium (Ds):
+Could not calculate density
+Could not calculate density
+
+roentgenium (Rg):
+Could not calculate density
+Could not calculate density
+
+copernicium (Cn):
+Could not calculate density
+Could not calculate density
+
+nihonium (Nh):
+Could not calculate density
+Could not calculate density
+
+flerovium (Fl):
+Could not calculate density
+Could not calculate density
+
+moscovium (Mc):
+Could not calculate density
+Could not calculate density
+
+livermorium (Lv):
+Could not calculate density
+Could not calculate density
+
+tennessine (Ts):
+Could not calculate density
+Could not calculate density
+
+oganesson (Og):
+Could not calculate density
+Could not calculate density
+
+Comparing the calculated densities with the tabulated density for each element:
+
+hydrogen (H):
+Density error with empirical radius: 25.57252089149816
+Density error with calculated radius: 2.683817260153676
+
+helium (He):
+Density error with empirical radius: 0.9180675819400177
+Density error with calculated radius: 53.261854650694865
+
+lithium (Li):
+Density error with empirical radius: 0.3685649240443194
+Density error with calculated radius: 0.05678987671283986
+
+beryllium (Be):
+Density error with empirical radius: 1.236188655380214
+Density error with calculated radius: 0.6929410917744678
+
+boron (B):
+Density error with empirical radius: 4.638619252516925
+Density error with calculated radius: 4.168314386497794
+
+carbon (C):
+Density error with empirical radius: 11.614442976930128
+Density error with calculated radius: 13.563853333312387
+
+nitrogen (N):
+Density error with empirical radius: 20.21758639576609
+Density error with calculated radius: 31.616586669737735
+
+oxygen (O):
+Density error with empirical radius: 29.362242658368462
+Density error with calculated radius: 57.34949220775091
+
+fluorine (F):
+Density error with empirical radius: 60.24975377796111
+Density error with calculated radius: 101.65351432076908
+
+neon (Ne):
+Density error with empirical radius: 1.9521582388547933
+Density error with calculated radius: 145.78795665250826
+
+sodium (Na):
+Density error with empirical radius: 0.591706883409539
+Density error with calculated radius: 0.3577223420388439
+
+magnesium (Mg):
+Density error with empirical radius: 1.1168432152471532
+Density error with calculated radius: 1.4224726233823914
+
+aluminium (Al):
+Density error with empirical radius: 2.778424146599098
+Density error with calculated radius: 3.8120015771612263
+
+silicon (Si):
+Density error with empirical radius: 6.035372518080963
+Density error with calculated radius: 5.8113228231633824
+
+phosphorus (P):
+Density error with empirical radius: 10.458755651725449
+Density error with calculated radius: 11.225962621575032
+
+sulfur (S):
+Density error with empirical radius: 10.644349453899915
+Could not calculate error
+
+chlorine (Cl):
+Density error with empirical radius: 14.051221433934627
+Density error with calculated radius: 28.50251360762258
+
+argon (Ar):
+Density error with empirical radius: 44.244867734678195
+Density error with calculated radius: 44.244867734678195
+
+potassium (K):
+Density error with empirical radius: 0.5936274812789738
+Density error with calculated radius: 0.2181882973148067
+
+calcium (Ca):
+Density error with empirical radius: 1.1842624207761756
+Density error with calculated radius: 0.636011895548386
+
+scandium (Sc):
+Density error with empirical radius: 1.3619817249574364
+Density error with calculated radius: 0.12815888882555315
+
+titanium (Ti):
+Density error with empirical radius: 2.3753237423371907
+Density error with calculated radius: 1.0593639010529317
+
+vanadium (V):
+Density error with empirical radius: 2.0978769574422946
+Density error with calculated radius: 2.0712793801767395
+
+chromium (Cr):
+Density error with empirical radius: 0.36185294334173346
+Density error with calculated radius: 2.6438367616503795
+
+manganese (Mn):
+Density error with empirical radius: 0.4968749787407596
+Density error with calculated radius: 2.22137586669466
+
+iron (Fe):
+Density error with empirical radius: 0.1939017776510008
+Density error with calculated radius: 2.0426257570628863
+
+cobalt (Co):
+Density error with empirical radius: 0.6355282884944167
+Density error with calculated radius: 2.2074266210440747
+
+nickel (Ni):
+Density error with empirical radius: 0.5448908535073276
+Density error with calculated radius: 1.878186046490411
+
+copper (Cu):
+Density error with empirical radius: 1.2787591479957996
+Density error with calculated radius: 0.6968692316207576
+
+zinc (Zn):
+Density error with empirical radius: 3.404932381444267
+Density error with calculated radius: 1.9219265285210358
+
+gallium (Ga):
+Density error with empirical radius: 6.673746819877264
+Density error with calculated radius: 5.081027921486342
+
+germanium (Ge):
+Density error with empirical radius: 9.42069066763201
+Density error with calculated radius: 9.42069066763201
+
+arsenic (As):
+Density error with empirical radius: 13.752727096076722
+Density error with calculated radius: 14.271162164772484
+
+selenium (Se):
+Density error with empirical radius: 15.772358266590917
+Density error with calculated radius: 23.836465201922767
+
+bromine (Br):
+Density error with empirical radius: 17.705417058430605
+Density error with calculated radius: 35.01489875887406
+
+krypton (Kr):
+Could not calculate error
+Density error with calculated radius: 48.74306020944558
+
+rubidium (Rb):
+Density error with empirical radius: 1.0787143257858993
+Density error with calculated radius: 0.28864518660417304
+
+strontium (Sr):
+Density error with empirical radius: 1.7018386057645043
+Density error with calculated radius: 0.6669780960839695
+
+yttrium (Y):
+Density error with empirical radius: 1.574287243429402
+Density error with calculated radius: 0.7700098936873778
+
+zirconium (Zr):
+Density error with empirical radius: 3.2052342663876914
+Density error with calculated radius: 2.3691681902542383
+
+niobium (Nb):
+Density error with empirical radius: 3.51097389539442
+Density error with calculated radius: 3.825282258117497
+
+molybdenum (Mo):
+Density error with empirical radius: 2.2554471708416646
+Density error with calculated radius: 4.675028410671065
+
+technetium (Tc):
+Density error with empirical radius: 4.290111045598282
+Density error with calculated radius: 5.160818002255063
+
+ruthenium (Ru):
+Density error with empirical radius: 5.866967443813307
+Density error with calculated radius: 5.2656774209118
+
+rhodium (Rh):
+Density error with empirical radius: 4.170502777579735
+Density error with calculated radius: 4.5311888325708525
+
+palladium (Pd):
+Density error with empirical radius: 3.3544490496484816
+Density error with calculated radius: 3.2797560433330926
+
+silver (Ag):
+Density error with empirical radius: 0.06115867760092364
+Density error with calculated radius: 0.9817657719794948
+
+cadmium (Cd):
+Density error with empirical radius: 3.2766924835449753
+Density error with calculated radius: 1.98804132340023
+
+indium (In):
+Density error with empirical radius: 4.912929229129417
+Density error with calculated radius: 4.679376449557767
+
+tin (Sn):
+Density error with empirical radius: 8.149317840844425
+Density error with calculated radius: 8.149317840844425
+
+antimony (Sb):
+Density error with empirical radius: 9.147921070686692
+Density error with calculated radius: 13.83182388703494
+
+tellurium (Te):
+Density error with empirical radius: 12.20231402682904
+Density error with calculated radius: 20.950897912434836
+
+iodine (I):
+Density error with empirical radius: 13.4038311237328
+Density error with calculated radius: 28.148348058533934
+
+xenon (Xe):
+Could not calculate error
+Density error with calculated radius: 41.31129750075206
+
+caesium (Cs):
+Density error with empirical radius: 1.1246654357813364
+Density error with calculated radius: 0.11792276283932956
+
+barium (Ba):
+Density error with empirical radius: 1.8837343531884296
+Density error with calculated radius: 0.23233228538890272
+
+lanthanum (La):
+Density error with empirical radius: 1.2813604066609052
+Density error with calculated radius: 1.2813604066609052
+
+cerium (Ce):
+Density error with empirical radius: 2.002693565530894
+Density error with calculated radius: 7.312406740859888
+
+praseodymium (Pr):
+Density error with empirical radius: 2.049258946080954
+Density error with calculated radius: 3.066157563632854
+
+neodymium (Nd):
+Density error with empirical radius: 2.0238981122225574
+Density error with calculated radius: 0.465995217950006
+
+promethium (Pm):
+Density error with empirical radius: 1.8184818793141364
+Density error with calculated radius: 0.587834148765995
+
+samarium (Sm):
+Density error with empirical radius: 1.8940726577494722
+Density error with calculated radius: 3.0985790990922064
+
+europium (Eu):
+Density error with empirical radius: 4.271499450400642
+Density error with calculated radius: 0.3557428472256836
+
+gadolinium (Gd):
+Density error with empirical radius: 2.793913260817746
+Density error with calculated radius: 2.9668569568437375
+
+terbium (Tb):
+Density error with empirical radius: 3.5264542921853774
+Density error with calculated radius: 2.6979700655424077
+
+dysprosium (Dy):
+Density error with empirical radius: 3.469866199311724
+Density error with calculated radius: 3.114878733610319
+
+holmium (Ho):
+Density error with empirical radius: 3.404633099136408
+Density error with calculated radius: 3.1308388851834037
+
+erbium (Er):
+Density error with empirical radius: 3.3058818500349503
+Density error with calculated radius: 3.321865604922679
+
+thulium (Tm):
+Density error with empirical radius: 3.1747944657626395
+Density error with calculated radius: 3.200046279209575
+
+ytterbium (Yb):
+Density error with empirical radius: 5.834493213100927
+Density error with calculated radius: 0.6952821503970386
+
+lutetium (Lu):
+Density error with empirical radius: 3.1020303341229205
+Density error with calculated radius: 3.052069954997461
+
+hafnium (Hf):
+Density error with empirical radius: 5.691120365337399
+Density error with calculated radius: 5.447072003763255
+
+tantalum (Ta):
+Density error with empirical radius: 6.875351335467382
+Density error with calculated radius: 7.687478910613844
+
+tungsten (W):
+Density error with empirical radius: 10.370959332885594
+Density error with calculated radius: 9.112555294992323
+
+rhenium (Re):
+Density error with empirical radius: 8.982338851711422
+Density error with calculated radius: 9.910797852432822
+
+osmium (Os):
+Density error with empirical radius: 11.714906667028842
+Density error with calculated radius: 10.699657876538428
+
+iridium (Ir):
+Density error with empirical radius: 8.320691580120055
+Density error with calculated radius: 9.584239489636852
+
+platinum (Pt):
+Density error with empirical radius: 9.971666148502262
+Density error with calculated radius: 7.514024132056987
+
+gold (Au):
+Density error with empirical radius: 12.453956089473333
+Density error with calculated radius: 4.460056712794408
+
+mercury (Hg):
+Density error with empirical radius: 10.027519133776035
+Density error with calculated radius: 2.3694843051411496
+
+thallium (Tl):
+Density error with empirical radius: 0.03741305156042607
+Density error with calculated radius: 9.491848174527513
+
+lead (Pb):
+Density error with empirical radius: 2.7422151201363203
+Density error with calculated radius: 11.14792476464873
+
+bismuth (Bi):
+Density error with empirical radius: 10.418812674121392
+Density error with calculated radius: 18.52373332811296
+
+polonium (Po):
+Density error with empirical radius: 2.7594148652256347
+Density error with calculated radius: 24.354828658469806
+
+astatine (At):
+Could not calculate error
+Density error with calculated radius: 33.64138932703839
+
+radon (Rn):
+Could not calculate error
+Density error with calculated radius: 50.91979788977867
+
+francium (Fr):
+Could not calculate error
+Could not calculate error
+
+radium (Ra):
+Density error with empirical radius: 3.514745562202517
+Could not calculate error
+
+actinium (Ac):
+Density error with empirical radius: 2.066191960088158
+Could not calculate error
+
+thorium (Th):
+Density error with empirical radius: 4.0525604076626625
+Could not calculate error
+
+protactinium (Pa):
+Density error with empirical radius: 0.334435494160239
+Could not calculate error
+
+uranium (U):
+Density error with empirical radius: 1.3433806168122295
+Could not calculate error
+
+neptunium (Np):
+Density error with empirical radius: 2.919487450849978
+Could not calculate error
+
+plutonium (Pu):
+Density error with empirical radius: 1.7677085991873192
+Could not calculate error
+
+americium (Am):
+Density error with empirical radius: 4.2843229934322995
+Could not calculate error
+
+curium (Cm):
+Could not calculate error
+Could not calculate error
+
+berkelium (Bk):
+Could not calculate error
+Could not calculate error
+
+californium (Cf):
+Could not calculate error
+Could not calculate error
+
+einsteinium (Es):
+Could not calculate error
+Could not calculate error
+
+fermium (Fm):
+Could not calculate error
+Could not calculate error
+
+mendelevium (Md):
+Could not calculate error
+Could not calculate error
+
+nobelium (No):
+Could not calculate error
+Could not calculate error
+
+lawrencium (Lr):
+Could not calculate error
+Could not calculate error
+
+rutherfordium (Rf):
+Could not calculate error
+Could not calculate error
+
+dubnium (Db):
+Could not calculate error
+Could not calculate error
+
+seaborgium (Sg):
+Could not calculate error
+Could not calculate error
+
+bohrium (Bh):
+Could not calculate error
+Could not calculate error
+
+hassium (Hs):
+Could not calculate error
+Could not calculate error
+
+meitnerium (Mt):
+Could not calculate error
+Could not calculate error
+
+darmstadtium (Ds):
+Could not calculate error
+Could not calculate error
+
+roentgenium (Rg):
+Could not calculate error
+Could not calculate error
+
+copernicium (Cn):
+Could not calculate error
+Could not calculate error
+
+nihonium (Nh):
+Could not calculate error
+Could not calculate error
+
+flerovium (Fl):
+Could not calculate error
+Could not calculate error
+
+moscovium (Mc):
+Could not calculate error
+Could not calculate error
+
+livermorium (Lv):
+Could not calculate error
+Could not calculate error
+
+tennessine (Ts):
+Could not calculate error
+Could not calculate error
+
+oganesson (Og):
+Could not calculate error
+Could not calculate error
+
+Calculating amount from density for each element:
+
+hydrogen (H):
+Calculated amount: 0.05370062742675158
+Actual amount: 0.054
+
+helium (He):
+Calculated amount: 0.026856337690207517
+Actual amount: 0.027
+
+lithium (Li):
+Calculated amount: 46.33084160582048
+Actual amount: 46.331
+
+beryllium (Be):
+Calculated amount: 123.62114204417976
+Actual amount: 123.621
+
+boron (B):
+Calculated amount: 130.34697797243547
+Actual amount: 18.144
+
+carbon (C):
+Calculated amount: 113.66694229253913
+Actual amount: 49.952
+
+nitrogen (N):
+Calculated amount: 0.05376919990129008
+Actual amount: 0.054
+
+oxygen (O):
+Calculated amount: 0.053787270884595666
+Actual amount: 0.054
+
+fluorine (F):
+Calculated amount: 0.053760057454933896
+Actual amount: 0.054
+
+neon (Ne):
+Calculated amount: 0.026855331827633708
+Actual amount: 0.027
+
+sodium (Na):
+Calculated amount: 25.435224789504197
+Actual amount: 25.435
+
+magnesium (Mg):
+Calculated amount: 43.06308344381814
+Actual amount: 43.063
+
+aluminium (Al):
+Calculated amount: 60.21798516237288
+Actual amount: 40.04
+
+silicon (Si):
+Calculated amount: 49.95168864354916
+Actual amount: 130.347
+
+phosphorus (P):
+Calculated amount: 35.385751371297786
+Actual amount: 35.386
+
+sulfur (S):
+Calculated amount: 38.82041815041322
+Actual amount: 38.82
+
+chlorine (Cl):
+Calculated amount: 0.054593867128479946
+Actual amount: 0.055
+
+argon (Ar):
+Calculated amount: 0.02688919172630169
+Actual amount: 0.027
+
+potassium (K):
+Calculated amount: 13.277012614308036
+Actual amount: 13.277
+
+calcium (Ca):
+Calculated amount: 23.140122652327957
+Actual amount: 23.14
+
+scandium (Sc):
+Calculated amount: 40.03963396650184
+Actual amount: 23.53
+
+titanium (Ti):
+Calculated amount: 57.117688024317374
+Actual amount: 57.118
+
+vanadium (V):
+Calculated amount: 72.23047286966423
+Actual amount: 72.23
+
+chromium (Cr):
+Calculated amount: 82.8106604120309
+Actual amount: 82.811
+
+manganese (Mn):
+Calculated amount: 81.55501648338476
+Actual amount: 81.555
+
+iron (Fe):
+Calculated amount: 84.91063560651803
+Actual amount: 84.911
+
+cobalt (Co):
+Calculated amount: 90.53670301188464
+Actual amount: 90.537
+
+nickel (Ni):
+Calculated amount: 91.44014085481501
+Actual amount: 91.44
+
+copper (Cu):
+Calculated amount: 84.91233191451862
+Actual amount: 84.912
+
+zinc (Zn):
+Calculated amount: 65.68203080594412
+Actual amount: 65.682
+
+gallium (Ga):
+Calculated amount: 51.02016774024353
+Actual amount: 51.02
+
+germanium (Ge):
+Calculated amount: 44.129764245828746
+Actual amount: 44.13
+
+arsenic (As):
+Calculated amount: 46.42705305150984
+Actual amount: 46.427
+
+selenium (Se):
+Calculated amount: 36.67740611462766
+Actual amount: 36.677
+
+bromine (Br):
+Calculated amount: 23.529643908164797
+Actual amount: 176.141
+
+krypton (Kr):
+Calculated amount: 0.02682719790695482
+Actual amount: 0.027
+
+rubidium (Rb):
+Calculated amount: 10.794616478112223
+Actual amount: 10.795
+
+strontium (Sr):
+Calculated amount: 18.14477781967587
+Actual amount: 60.218
+
+yttrium (Y):
+Calculated amount: 30.27129447557163
+Actual amount: 30.271
+
+zirconium (Zr):
+Calculated amount: 42.94928361586863
+Actual amount: 42.949
+
+niobium (Nb):
+Calculated amount: 55.55028098210262
+Actual amount: 55.55
+
+molybdenum (Mo):
+Calculated amount: 64.1508120635814
+Actual amount: 64.149
+
+technetium (Tc):
+Calculated amount: 70.66799039285713
+Actual amount: 70.668
+
+ruthenium (Ru):
+Calculated amount: 73.70524779093697
+Actual amount: 73.704
+
+rhodium (Rh):
+Calculated amount: 72.62466983193318
+Actual amount: 72.625
+
+palladium (Pd):
+Calculated amount: 68.01930493873331
+Actual amount: 68.018
+
+silver (Ag):
+Calculated amount: 58.625721887256844
+Actual amount: 58.626
+
+cadmium (Cd):
+Calculated amount: 46.55452949898142
+Actual amount: 46.555
+
+indium (In):
+Calculated amount: 38.34055329730529
+Actual amount: 38.341
+
+tin (Sn):
+Calculated amount: 36.96684965355067
+Actual amount: 36.967
+
+antimony (Sb):
+Calculated amount: 33.06341808980781
+Actual amount: 33.063
+
+tellurium (Te):
+Calculated amount: 29.412216015109717
+Actual amount: 29.412
+
+iodine (I):
+Calculated amount: 23.394888316148354
+Actual amount: 23.395
+
+xenon (Xe):
+Calculated amount: 0.02700246678629477
+Actual amount: 0.027
+
+caesium (Cs):
+Calculated amount: 8.486839006729971
+Actual amount: 8.487
+
+barium (Ba):
+Calculated amount: 15.760613421439336
+Actual amount: 15.761
+
+lanthanum (La):
+Calculated amount: 26.641177850805043
+Actual amount: 26.641
+
+cerium (Ce):
+Calculated amount: 29.09724793620999
+Actual amount: 29.097
+
+praseodymium (Pr):
+Calculated amount: 28.946594697782555
+Actual amount: 28.947
+
+neodymium (Nd):
+Calculated amount: 29.254816640689125
+Actual amount: 29.254
+
+promethium (Pm):
+Calculated amount: 30.15224096234482
+Actual amount: 30.152
+
+samarium (Sm):
+Calculated amount: 30.118719247672246
+Actual amount: 30.118
+
+europium (Eu):
+Calculated amount: 20.777348190999184
+Actual amount: 20.777
+
+gadolinium (Gd):
+Calculated amount: 30.23517292976152
+Actual amount: 30.235
+
+terbium (Tb):
+Calculated amount: 31.182066239348607
+Actual amount: 31.182
+
+dysprosium (Dy):
+Calculated amount: 31.685730648923073
+Actual amount: 31.686
+
+holmium (Ho):
+Calculated amount: 32.11340221922203
+Actual amount: 32.113
+
+erbium (Er):
+Calculated amount: 32.64203269668
+Actual amount: 32.642
+
+thulium (Tm):
+Calculated amount: 33.22736325850755
+Actual amount: 33.227
+
+ytterbium (Yb):
+Calculated amount: 24.23960793305016
+Actual amount: 24.24
+
+lutetium (Lu):
+Calculated amount: 33.86802952190984
+Actual amount: 22.618
+
+hafnium (Hf):
+Calculated amount: 44.907113689786534
+Actual amount: 44.907
+
+tantalum (Ta):
+Calculated amount: 55.426312972220174
+Actual amount: 55.426
+
+tungsten (W):
+Calculated amount: 63.058218808474756
+Actual amount: 63.058
+
+rhenium (Re):
+Calculated amount: 67.98102135032516
+Actual amount: 67.981
+
+osmium (Os):
+Calculated amount: 71.57684165058087
+Actual amount: 71.577
+
+iridium (Ir):
+Calculated amount: 70.96225180056912
+Actual amount: 70.962
+
+platinum (Pt):
+Calculated amount: 66.2479432910938
+Actual amount: 66.246
+
+gold (Au):
+Calculated amount: 58.95363349501729
+Actual amount: 42.691
+
+mercury (Hg):
+Calculated amount: 40.63076829809262
+Actual amount: 40.631
+
+thallium (Tl):
+Calculated amount: 34.91595458704307
+Actual amount: 34.916
+
+lead (Pb):
+Calculated amount: 32.96483213425676
+Actual amount: 23.634
+
+bismuth (Bi):
+Calculated amount: 28.260616874430987
+Actual amount: 20.507
+
+polonium (Po):
+Calculated amount: 26.85471841282296
+Actual amount: 19.221
+
+astatine (At):
+Calculated amount: 20.073805966666665
+Actual amount: 20.074
+
+radon (Rn):
+Calculated amount: 0.02639434216968468
+Actual amount: 0.027
+
+francium (Fr):
+Calculated amount: 5.04995746515695
+Actual amount: 5.05
+
+radium (Ra):
+Calculated amount: 14.655654798672563
+Actual amount: 14.656
+
+actinium (Ac):
+Calculated amount: 26.714963799691624
+Actual amount: 26.715
+
+thorium (Th):
+Calculated amount: 30.4172038035133
+Actual amount: 30.549
+
+protactinium (Pa):
+Calculated amount: 40.063179499348756
+Actual amount: 39.89
+
+uranium (U):
+Calculated amount: 47.94358253394514
+Actual amount: 51.739
+
+neptunium (Np):
+Calculated amount: 51.96320658459915
+Actual amount: 48.152
+
+plutonium (Pu):
+Calculated amount: 48.90768922567212
+Actual amount: 33.788
+
+americium (Am):
+Calculated amount: 33.92721033131687
+Actual amount: 19.84
+
+curium (Cm):
+Calculated amount: 32.938921288623476
+Actual amount: 32.939
+
+berkelium (Bk):
+Calculated amount: 36.05970731744939
+Actual amount: 36.06
+
+californium (Cf):
+Calculated amount: 36.22882112709163
+Actual amount: 36.229
+
+einsteinium (Es):
+Calculated amount: 32.26147387499999
+Actual amount: 32.261
+
+fermium (Fm):
+Could not calculate amount
+Actual amount: None
+
+mendelevium (Md):
+Could not calculate amount
+Actual amount: None
+
+nobelium (No):
+Could not calculate amount
+Actual amount: None
+
+lawrencium (Lr):
+Calculated amount: 22.61750962351145
+Actual amount: 33.868
+
+rutherfordium (Rf):
+Calculated amount: 41.76274574674329
+Actual amount: 41.763
+
+dubnium (Db):
+Calculated amount: 89.64256862977098
+Actual amount: 89.643
+
+seaborgium (Sg):
+Calculated amount: 79.23870776315788
+Actual amount: 79.239
+
+bohrium (Bh):
+Calculated amount: 84.40122963257573
+Actual amount: 84.401
+
+hassium (Hs):
+Calculated amount: 89.13639472563176
+Actual amount: 89.136
+
+meitnerium (Mt):
+Calculated amount: 78.64737412313431
+Actual amount: 78.647
+
+darmstadtium (Ds):
+Calculated amount: 45.99116114355872
+Actual amount: 47.688
+
+roentgenium (Rg):
+Calculated amount: 42.69078602749264
+Actual amount: 42.691
+
+copernicium (Cn):
+Calculated amount: 28.596932676892628
+Actual amount: 28.597
+
+nihonium (Nh):
+Calculated amount: 24.95188119283216
+Actual amount: 25.128
+
+flerovium (Fl):
+Calculated amount: 23.634301793141866
+Actual amount: 32.962
+
+moscovium (Mc):
+Calculated amount: 20.435690150356397
+Actual amount: 28.261
+
+livermorium (Lv):
+Calculated amount: 19.15575477228669
+Actual amount: 26.727
+
+tennessine (Ts):
+Could not calculate amount
+No data on actual amount
+
+oganesson (Og):
+Could not calculate amount
+Actual amount: None
+
+Distance between atoms:
+
+hydrogen (H):
+Distance in nanometers: 2.650575707554614
+
+helium (He):
+Distance in nanometers: 3.3392664209709952
+
+lithium (Li):
+Distance in nanometers: 0.2784260953617513
+
+beryllium (Be):
+Distance in nanometers: 0.200740845736547
+
+boron (B):
+Distance in nanometers: 0.1972269889478775
+
+carbon (C):
+Distance in nanometers: 0.20643750784599268
+
+nitrogen (N):
+Distance in nanometers: 2.6494484583999744
+
+oxygen (O):
+Distance in nanometers: 2.6491517122184027
+
+fluorine (F):
+Distance in nanometers: 2.649598638469154
+
+neon (Ne):
+Distance in nanometers: 3.3393081110309586
+
+sodium (Na):
+Distance in nanometers: 0.3400333180145194
+
+magnesium (Mg):
+Distance in nanometers: 0.28529771426525463
+
+aluminium (Al):
+Distance in nanometers: 0.25512788369506556
+
+silicon (Si):
+Distance in nanometers: 0.27152924281467505
+
+phosphorus (P):
+Distance in nanometers: 0.3045957640674671
+
+sulfur (S):
+Distance in nanometers: 0.29533387496851565
+
+chlorine (Cl):
+Distance in nanometers: 2.6360403102605154
+
+argon (Ar):
+Distance in nanometers: 3.3379058607791565
+
+potassium (K):
+Distance in nanometers: 0.42231179445839717
+
+calcium (Ca):
+Distance in nanometers: 0.3509226884046814
+
+scandium (Sc):
+Distance in nanometers: 0.2923052622156614
+
+titanium (Ti):
+Distance in nanometers: 0.2596628343517419
+
+vanadium (V):
+Distance in nanometers: 0.24011899334167727
+
+chromium (Cr):
+Distance in nanometers: 0.22942350864979955
+
+manganese (Mn):
+Distance in nanometers: 0.23059494008133438
+
+iron (Fe):
+Distance in nanometers: 0.22751636270238887
+
+cobalt (Co):
+Distance in nanometers: 0.22270250817470558
+
+nickel (Ni):
+Distance in nanometers: 0.22196663823337892
+
+copper (Cu):
+Distance in nanometers: 0.22751484764802782
+
+zinc (Zn):
+Distance in nanometers: 0.24784746196122995
+
+gallium (Ga):
+Distance in nanometers: 0.26962037348815737
+
+germanium (Ge):
+Distance in nanometers: 0.282980253233368
+
+arsenic (As):
+Distance in nanometers: 0.27823363356089165
+
+selenium (Se):
+Distance in nanometers: 0.300977337000553
+
+bromine (Br):
+Distance in nanometers: 0.34897545467398977
+
+krypton (Kr):
+Distance in nanometers: 3.3404750238987213
+
+rubidium (Rb):
+Distance in nanometers: 0.4524781314937671
+
+strontium (Sr):
+Distance in nanometers: 0.380553845721941
+
+yttrium (Y):
+Distance in nanometers: 0.32086548437330964
+
+zirconium (Zr):
+Distance in nanometers: 0.2855494700971208
+
+niobium (Nb):
+Distance in nanometers: 0.2620824339216858
+
+molybdenum (Mo):
+Distance in nanometers: 0.24980393805027984
+
+technetium (Tc):
+Distance in nanometers: 0.24187580042950768
+
+ruthenium (Ru):
+Distance in nanometers: 0.23850667050414517
+
+rhodium (Rh):
+Distance in nanometers: 0.23968376036918806
+
+palladium (Pd):
+Distance in nanometers: 0.24497547217651497
+
+silver (Ag):
+Distance in nanometers: 0.2574170242377251
+
+cadmium (Cd):
+Distance in nanometers: 0.2779794466382632
+
+indium (In):
+Distance in nanometers: 0.2965608888482619
+
+tin (Sn):
+Distance in nanometers: 0.30018974570552004
+
+antimony (Sb):
+Distance in nanometers: 0.31156649622316884
+
+tellurium (Te):
+Distance in nanometers: 0.3239595231357736
+
+iodine (I):
+Distance in nanometers: 0.3496442103129582
+
+xenon (Xe):
+Distance in nanometers: 3.3332318256766413
+
+caesium (Cs):
+Distance in nanometers: 0.49025046251941584
+
+barium (Ba):
+Distance in nanometers: 0.39884941655235273
+
+lanthanum (La):
+Distance in nanometers: 0.334823187129907
+
+cerium (Ce):
+Distance in nanometers: 0.32512424880753454
+
+praseodymium (Pr):
+Distance in nanometers: 0.32568731206287604
+
+neodymium (Nd):
+Distance in nanometers: 0.32453948290160056
+
+promethium (Pm):
+Distance in nanometers: 0.3212872329762516
+
+samarium (Sm):
+Distance in nanometers: 0.32140638485292294
+
+europium (Eu):
+Distance in nanometers: 0.36375024462003924
+
+gadolinium (Gd):
+Distance in nanometers: 0.32099321138456943
+
+terbium (Tb):
+Distance in nanometers: 0.31771059902858706
+
+dysprosium (Dy):
+Distance in nanometers: 0.3160181972683414
+
+holmium (Ho):
+Distance in nanometers: 0.3146090613923153
+
+erbium (Er):
+Distance in nanometers: 0.31290146860155305
+
+thulium (Tm):
+Distance in nanometers: 0.31105322384977824
+
+ytterbium (Yb):
+Distance in nanometers: 0.34553454258610156
+
+lutetium (Lu):
+Distance in nanometers: 0.30907937362889376
+
+hafnium (Hf):
+Distance in nanometers: 0.2813379287532792
+
+tantalum (Ta):
+Distance in nanometers: 0.26227768201185087
+
+tungsten (W):
+Distance in nanometers: 0.2512384470443243
+
+rhenium (Re):
+Distance in nanometers: 0.24502144961747044
+
+osmium (Os):
+Distance in nanometers: 0.2408476924034146
+
+iridium (Ir):
+Distance in nanometers: 0.24154100589767583
+
+platinum (Pt):
+Distance in nanometers: 0.24713971036828397
+
+gold (Au):
+Distance in nanometers: 0.2569388687090443
+
+mercury (Hg):
+Distance in nanometers: 0.2908807547892515
+
+thallium (Tl):
+Distance in nanometers: 0.30595580198710504
+
+lead (Pb):
+Distance in nanometers: 0.31187678155134857
+
+bismuth (Bi):
+Distance in nanometers: 0.3283014399126769
+
+polonium (Po):
+Distance in nanometers: 0.33393335363016735
+
+astatine (At):
+Distance in nanometers: 0.3679510890583687
+
+radon (Rn):
+Distance in nanometers: 3.358636879999384
+
+francium (Fr):
+Distance in nanometers: 0.5828687343315032
+
+radium (Ra):
+Distance in nanometers: 0.4086312639618288
+
+actinium (Ac):
+Distance in nanometers: 0.3345146456101519
+
+thorium (Th):
+Distance in nanometers: 0.3203516049318033
+
+protactinium (Pa):
+Distance in nanometers: 0.29224798741470337
+
+uranium (U):
+Distance in nanometers: 0.27526849323633734
+
+neptunium (Np):
+Distance in nanometers: 0.26797936416524487
+
+plutonium (Pu):
+Distance in nanometers: 0.27344770663642154
+
+americium (Am):
+Distance in nanometers: 0.30889955519552037
+
+curium (Cm):
+Distance in nanometers: 0.31195853765049425
+
+berkelium (Bk):
+Distance in nanometers: 0.30268618586056556
+
+californium (Cf):
+Distance in nanometers: 0.30221447790638045
+
+einsteinium (Es):
+Distance in nanometers: 0.3141269989217366
+
+fermium (Fm):
+Could not calculate distance
+
+mendelevium (Md):
+Could not calculate distance
+
+nobelium (No):
+Could not calculate distance
+
+lawrencium (Lr):
+Distance in nanometers: 0.3536050065692855
+
+rutherfordium (Rf):
+Distance in nanometers: 0.28822854226244315
+
+dubnium (Db):
+Distance in nanometers: 0.22344050412313185
+
+seaborgium (Sg):
+Distance in nanometers: 0.23282031466996111
+
+bohrium (Bh):
+Distance in nanometers: 0.2279731720190553
+
+hassium (Hs):
+Distance in nanometers: 0.2238626524538954
+
+meitnerium (Mt):
+Distance in nanometers: 0.2334023678788388
+
+darmstadtium (Ds):
+Distance in nanometers: 0.27910987904461015
+
+roentgenium (Rg):
+Distance in nanometers: 0.2861246556085032
+
+copernicium (Cn):
+Distance in nanometers: 0.3270093590091036
+
+nihonium (Nh):
+Distance in nanometers: 0.34221488998280986
+
+flerovium (Fl):
+Distance in nanometers: 0.34845957910453934
+
+moscovium (Mc):
+Distance in nanometers: 0.36576619428645524
+
+livermorium (Lv):
+Distance in nanometers: 0.3737377015907109
+
+tennessine (Ts):
+Could not calculate distance
+
+oganesson (Og):
+Could not calculate distance
+
